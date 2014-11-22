@@ -1,0 +1,48 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="HumanMicroRNA.SiteMaster" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head runat="server">
+    <title></title>
+    <link href="Assets/Styles/Site.css" rel="stylesheet" type="text/css" />
+    <asp:ContentPlaceHolder ID="HeadContent" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div class="page">
+        <div class="header">
+            <div class="title">
+                <asp:Label ID="lblTitle" runat="server" Text="HMiRNAsqv" CssClass="titleLabel" /><br />
+                <asp:Label ID="lblSubTitle" runat="server" Text="A Human MiRNA sequence based variations database"
+                    CssClass="subTitleLabel" />
+            </div>
+            <div class="clear hideSkiplink">
+                <asp:Menu ID="NavigationMenu" runat="server" CssClass="menu" EnableViewState="false"
+                    IncludeStyleBlock="false" Orientation="Horizontal">
+                    <Items>
+                        <asp:MenuItem NavigateUrl="~/Default.aspx" Text="Home" />
+                        <asp:MenuItem NavigateUrl="~/MiRNAVar.aspx" Text="miRNA-Var" />
+                    </Items>
+                </asp:Menu>
+            </div>
+        </div>
+        <div class="main">
+            <asp:ContentPlaceHolder ID="MainContent" runat="server" />
+        </div>
+        <div class="clear">
+        </div>
+        <div class="footer">
+            <table width="100%" cellspacing="0" cellpadding="3">
+                <tr valign="middle">
+                    <td align="center">
+                        <b>&copy; 2012 <a href="http://www.cse.usf.edu/" target="_blank">USF - Department of
+                            Computer Science and Engineering.</a> All rights reserved.</b>
+                    </td>
+                </tr>
+            </table>
+        </div>
+    </div>
+    </form>
+</body>
+</html>

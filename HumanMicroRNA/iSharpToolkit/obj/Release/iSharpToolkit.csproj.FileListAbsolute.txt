@@ -1,0 +1,20 @@
+C:\Documents and Settings\Administrator\Desktop\HumanMicroRNA\iSharpToolkit\bin\Release\iSharpToolkit.dll
+C:\Documents and Settings\Administrator\Desktop\HumanMicroRNA\iSharpToolkit\bin\Release\iSharpToolkit.pdb
+C:\Documents and Settings\Administrator\Desktop\HumanMicroRNA\iSharpToolkit\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\HumanMicroRNA\iSharpToolkit\obj\Release\iSharpToolkit.dll
+C:\Documents and Settings\Administrator\Desktop\HumanMicroRNA\iSharpToolkit\obj\Release\iSharpToolkit.pdb
+C:\inetpub\ftproot\HumanMicroRNA\HumanMicroRNA\iSharpToolkit\bin\Release\iSharpToolkit.dll
+C:\inetpub\ftproot\HumanMicroRNA\HumanMicroRNA\iSharpToolkit\bin\Release\iSharpToolkit.pdb
+C:\inetpub\ftproot\HumanMicroRNA\HumanMicroRNA\iSharpToolkit\obj\Release\ResolveAssemblyReference.cache
+C:\inetpub\ftproot\HumanMicroRNA\HumanMicroRNA\iSharpToolkit\obj\Release\iSharpToolkit.dll
+C:\inetpub\ftproot\HumanMicroRNA\HumanMicroRNA\iSharpToolkit\obj\Release\iSharpToolkit.pdb
+C:\Documents and Settings\Administrator\Desktop\HumanMicroRNA\After Deployment\HumanMicroRNA\iSharpToolkit\bin\Release\iSharpToolkit.dll
+C:\Documents and Settings\Administrator\Desktop\HumanMicroRNA\After Deployment\HumanMicroRNA\iSharpToolkit\bin\Release\iSharpToolkit.pdb
+C:\Documents and Settings\Administrator\Desktop\HumanMicroRNA\After Deployment\HumanMicroRNA\iSharpToolkit\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\HumanMicroRNA\After Deployment\HumanMicroRNA\iSharpToolkit\obj\Release\iSharpToolkit.dll
+C:\Documents and Settings\Administrator\Desktop\HumanMicroRNA\After Deployment\HumanMicroRNA\iSharpToolkit\obj\Release\iSharpToolkit.pdb
+C:\Users\nbouzaid\Desktop\HumanMicroRNA\iSharpToolkit\bin\Release\iSharpToolkit.dll
+C:\Users\nbouzaid\Desktop\HumanMicroRNA\iSharpToolkit\bin\Release\iSharpToolkit.pdb
+C:\Users\nbouzaid\Desktop\HumanMicroRNA\iSharpToolkit\obj\Release\ResolveAssemblyReference.cache
+C:\Users\nbouzaid\Desktop\HumanMicroRNA\iSharpToolkit\obj\Release\iSharpToolkit.dll
+C:\Users\nbouzaid\Desktop\HumanMicroRNA\iSharpToolkit\obj\Release\iSharpToolkit.pdb

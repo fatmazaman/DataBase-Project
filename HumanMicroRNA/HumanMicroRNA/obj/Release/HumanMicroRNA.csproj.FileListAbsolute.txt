@@ -1,0 +1,44 @@
+C:\Documents and Settings\Administrator\Desktop\HumanMicroRNA\HumanMicroRNA\bin\HumanMicroRNA.dll
+C:\Documents and Settings\Administrator\Desktop\HumanMicroRNA\HumanMicroRNA\bin\HumanMicroRNA.pdb
+C:\Documents and Settings\Administrator\Desktop\HumanMicroRNA\HumanMicroRNA\bin\HumanMicroRNA.BusinessLayer.dll
+C:\Documents and Settings\Administrator\Desktop\HumanMicroRNA\HumanMicroRNA\bin\iSharpToolkit.dll
+C:\Documents and Settings\Administrator\Desktop\HumanMicroRNA\HumanMicroRNA\bin\HumanMicroRNA.DataLayer.dll
+C:\Documents and Settings\Administrator\Desktop\HumanMicroRNA\HumanMicroRNA\bin\HumanMicroRNA.BusinessLayer.pdb
+C:\Documents and Settings\Administrator\Desktop\HumanMicroRNA\HumanMicroRNA\bin\iSharpToolkit.pdb
+C:\Documents and Settings\Administrator\Desktop\HumanMicroRNA\HumanMicroRNA\bin\HumanMicroRNA.DataLayer.pdb
+C:\Documents and Settings\Administrator\Desktop\HumanMicroRNA\HumanMicroRNA\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\HumanMicroRNA\HumanMicroRNA\obj\Release\HumanMicroRNA.dll
+C:\Documents and Settings\Administrator\Desktop\HumanMicroRNA\HumanMicroRNA\obj\Release\HumanMicroRNA.pdb
+C:\inetpub\ftproot\HumanMicroRNA\HumanMicroRNA\HumanMicroRNA\bin\HumanMicroRNA.dll
+C:\inetpub\ftproot\HumanMicroRNA\HumanMicroRNA\HumanMicroRNA\bin\HumanMicroRNA.pdb
+C:\inetpub\ftproot\HumanMicroRNA\HumanMicroRNA\HumanMicroRNA\bin\HumanMicroRNA.BusinessLayer.dll
+C:\inetpub\ftproot\HumanMicroRNA\HumanMicroRNA\HumanMicroRNA\bin\iSharpToolkit.dll
+C:\inetpub\ftproot\HumanMicroRNA\HumanMicroRNA\HumanMicroRNA\bin\HumanMicroRNA.DataLayer.dll
+C:\inetpub\ftproot\HumanMicroRNA\HumanMicroRNA\HumanMicroRNA\bin\HumanMicroRNA.BusinessLayer.pdb
+C:\inetpub\ftproot\HumanMicroRNA\HumanMicroRNA\HumanMicroRNA\bin\iSharpToolkit.pdb
+C:\inetpub\ftproot\HumanMicroRNA\HumanMicroRNA\HumanMicroRNA\bin\HumanMicroRNA.DataLayer.pdb
+C:\inetpub\ftproot\HumanMicroRNA\HumanMicroRNA\HumanMicroRNA\obj\Release\ResolveAssemblyReference.cache
+C:\inetpub\ftproot\HumanMicroRNA\HumanMicroRNA\HumanMicroRNA\obj\Release\HumanMicroRNA.dll
+C:\inetpub\ftproot\HumanMicroRNA\HumanMicroRNA\HumanMicroRNA\obj\Release\HumanMicroRNA.pdb
+C:\Documents and Settings\Administrator\Desktop\HumanMicroRNA\After Deployment\HumanMicroRNA\HumanMicroRNA\bin\HumanMicroRNA.dll
+C:\Documents and Settings\Administrator\Desktop\HumanMicroRNA\After Deployment\HumanMicroRNA\HumanMicroRNA\bin\HumanMicroRNA.pdb
+C:\Documents and Settings\Administrator\Desktop\HumanMicroRNA\After Deployment\HumanMicroRNA\HumanMicroRNA\bin\HumanMicroRNA.BusinessLayer.dll
+C:\Documents and Settings\Administrator\Desktop\HumanMicroRNA\After Deployment\HumanMicroRNA\HumanMicroRNA\bin\iSharpToolkit.dll
+C:\Documents and Settings\Administrator\Desktop\HumanMicroRNA\After Deployment\HumanMicroRNA\HumanMicroRNA\bin\HumanMicroRNA.DataLayer.dll
+C:\Documents and Settings\Administrator\Desktop\HumanMicroRNA\After Deployment\HumanMicroRNA\HumanMicroRNA\bin\HumanMicroRNA.BusinessLayer.pdb
+C:\Documents and Settings\Administrator\Desktop\HumanMicroRNA\After Deployment\HumanMicroRNA\HumanMicroRNA\bin\iSharpToolkit.pdb
+C:\Documents and Settings\Administrator\Desktop\HumanMicroRNA\After Deployment\HumanMicroRNA\HumanMicroRNA\bin\HumanMicroRNA.DataLayer.pdb
+C:\Documents and Settings\Administrator\Desktop\HumanMicroRNA\After Deployment\HumanMicroRNA\HumanMicroRNA\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\HumanMicroRNA\After Deployment\HumanMicroRNA\HumanMicroRNA\obj\Release\HumanMicroRNA.dll
+C:\Documents and Settings\Administrator\Desktop\HumanMicroRNA\After Deployment\HumanMicroRNA\HumanMicroRNA\obj\Release\HumanMicroRNA.pdb
+C:\Users\nbouzaid\Desktop\HumanMicroRNA\HumanMicroRNA\bin\HumanMicroRNA.dll
+C:\Users\nbouzaid\Desktop\HumanMicroRNA\HumanMicroRNA\bin\HumanMicroRNA.pdb
+C:\Users\nbouzaid\Desktop\HumanMicroRNA\HumanMicroRNA\bin\HumanMicroRNA.BusinessLayer.dll
+C:\Users\nbouzaid\Desktop\HumanMicroRNA\HumanMicroRNA\bin\iSharpToolkit.dll
+C:\Users\nbouzaid\Desktop\HumanMicroRNA\HumanMicroRNA\bin\HumanMicroRNA.DataLayer.dll
+C:\Users\nbouzaid\Desktop\HumanMicroRNA\HumanMicroRNA\bin\HumanMicroRNA.BusinessLayer.pdb
+C:\Users\nbouzaid\Desktop\HumanMicroRNA\HumanMicroRNA\bin\iSharpToolkit.pdb
+C:\Users\nbouzaid\Desktop\HumanMicroRNA\HumanMicroRNA\bin\HumanMicroRNA.DataLayer.pdb
+C:\Users\nbouzaid\Desktop\HumanMicroRNA\HumanMicroRNA\obj\Release\ResolveAssemblyReference.cache
+C:\Users\nbouzaid\Desktop\HumanMicroRNA\HumanMicroRNA\obj\Release\HumanMicroRNA.dll
+C:\Users\nbouzaid\Desktop\HumanMicroRNA\HumanMicroRNA\obj\Release\HumanMicroRNA.pdb

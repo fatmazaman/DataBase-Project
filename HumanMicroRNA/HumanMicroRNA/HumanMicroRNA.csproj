@@ -1,0 +1,272 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{0686B70F-AF5F-4D32-9101-FA38A6A749BD}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>HumanMicroRNA</RootNamespace>
+    <AssemblyName>HumanMicroRNA</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <UseIISExpress>false</UseIISExpress>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Admin\Assets\Images\active.png" />
+    <Content Include="Admin\Assets\Images\active_status_icons.jpg" />
+    <Content Include="Admin\Assets\Images\add_user.png" />
+    <Content Include="Admin\Assets\Images\database_active.png" />
+    <Content Include="Admin\Assets\Images\data_transfer.png" />
+    <Content Include="Admin\Assets\Images\downloading.gif" />
+    <Content Include="Admin\Assets\Images\inactive.png" />
+    <Content Include="Admin\Assets\Images\loading.gif" />
+    <Content Include="Admin\Assets\Images\pending.png" />
+    <Content Include="Admin\Assets\Images\preferences.png" />
+    <Content Include="Admin\Assets\Images\user.png" />
+    <Content Include="Admin\Assets\Images\user_edit.png" />
+    <Content Include="Admin\Assets\JQuery\jquery-1.3.2-vsdoc.js" />
+    <Content Include="Admin\Assets\JQuery\jquery-1.3.2.js" />
+    <Content Include="Admin\Assets\JQuery\ui.core.js" />
+    <Content Include="Admin\Assets\JQuery\ui.progressbar.js" />
+    <Content Include="Admin\Assets\JQuery\jquery.min.js" />
+    <Content Include="Admin\Assets\JScript\DataMaintenance.js" />
+    <Content Include="Admin\Assets\JScript\EditUsers.js" />
+    <Content Include="Admin\Assets\JScript\ModalPopUp.js" />
+    <Content Include="Admin\Assets\JScript\PopUpScript.js" />
+    <Content Include="Admin\Assets\Styles\Site.css" />
+    <Content Include="Admin\Assets\Styles\UpdateProgress\ui.all.css" />
+    <Content Include="Admin\Assets\Styles\UpdateProgress\ui.base.css" />
+    <Content Include="Admin\Assets\Styles\UpdateProgress\ui.core.css" />
+    <Content Include="Admin\Assets\Styles\UpdateProgress\ui.progressbar.css" />
+    <Content Include="Admin\Assets\Styles\UpdateProgress\ui.theme.css" />
+    <Content Include="Admin\DataMaintenance.aspx" />
+    <Content Include="Admin\Default.aspx" />
+    <Content Include="Admin\Login.aspx" />
+    <Content Include="Admin\Portal.aspx" />
+    <Content Include="Admin\AddUser.aspx" />
+    <Content Include="Admin\ViewUsers.aspx" />
+    <Content Include="Admin\EditUsers.aspx" />
+    <Content Include="AppWebService.asmx" />
+    <Content Include="Assets\Images\csv_file.png" />
+    <Content Include="Assets\Images\lv_header.png" />
+    <Content Include="Assets\Images\magnify_icon.gif" />
+    <Content Include="Assets\Scripts\jquery-1.7.2.min.js" />
+    <Content Include="Assets\Scripts\jquery-ui.min.js" />
+    <Content Include="Assets\Styles\jquery-ui.css" />
+    <Content Include="Assets\Styles\Site.css" />
+    <Content Include="Default.aspx" />
+    <Content Include="Global.asax" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <Content Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="MiRNAVar.aspx" />
+    <Content Include="MiRNAVarDetails.aspx" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Admin\AdminMaster.Master.cs">
+      <DependentUpon>AdminMaster.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\AdminMaster.Master.designer.cs">
+      <DependentUpon>AdminMaster.Master</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\DataMaintenance.aspx.cs">
+      <DependentUpon>DataMaintenance.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\DataMaintenance.aspx.designer.cs">
+      <DependentUpon>DataMaintenance.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\Default.aspx.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\Default.aspx.designer.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\Login.aspx.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\Login.aspx.designer.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\Portal.aspx.cs">
+      <DependentUpon>Portal.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\Portal.aspx.designer.cs">
+      <DependentUpon>Portal.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\AddUser.aspx.cs">
+      <DependentUpon>AddUser.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\AddUser.aspx.designer.cs">
+      <DependentUpon>AddUser.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\ViewUsers.aspx.cs">
+      <DependentUpon>ViewUsers.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\ViewUsers.aspx.designer.cs">
+      <DependentUpon>ViewUsers.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\EditUsers.aspx.cs">
+      <DependentUpon>EditUsers.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\EditUsers.aspx.designer.cs">
+      <DependentUpon>EditUsers.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AppWebService.asmx.cs">
+      <DependentUpon>AppWebService.asmx</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Default.aspx.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Default.aspx.designer.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Global.asax.cs">
+      <DependentUpon>Global.asax</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Site.Master.cs">
+      <DependentUpon>Site.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Site.Master.designer.cs">
+      <DependentUpon>Site.Master</DependentUpon>
+    </Compile>
+    <Compile Include="MiRNAVar.aspx.cs">
+      <DependentUpon>MiRNAVar.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MiRNAVar.aspx.designer.cs">
+      <DependentUpon>MiRNAVar.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="MiRNAVarDetails.aspx.cs">
+      <DependentUpon>MiRNAVarDetails.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MiRNAVarDetails.aspx.designer.cs">
+      <DependentUpon>MiRNAVarDetails.aspx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Admin\TempDocuments\miRNA\" />
+    <Folder Include="Admin\TempDocuments\SNP\" />
+    <Folder Include="Admin\TempDocuments\VAR\" />
+    <Folder Include="App_Data\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Site.Master" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\HumanMicroRNA.BusinessLayer\HumanMicroRNA.BusinessLayer.csproj">
+      <Project>{4D434BC4-987E-4C1F-ABDA-7D56A417E1AE}</Project>
+      <Name>HumanMicroRNA.BusinessLayer</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\iSharpToolkit\iSharpToolkit.csproj">
+      <Project>{2BD6B300-FE83-4F00-96F9-FE58F40215B1}</Project>
+      <Name>iSharpToolkit</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Admin\AdminMaster.Master" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>False</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>52200</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>http://localhost/HumanMicroRNATest</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!--<ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>False</AutoAssignPort>
+          <DevelopmentServerPort>1099</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>http://localhost/HumanMicroRNATest</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>-->
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
