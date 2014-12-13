@@ -3,7 +3,7 @@ function dbopen(){
   $host="localhost"; // Host name 
   $username="root"; // Mysql username 
   $password="root"; // Mysql password 
-  $db_name="Test"; // Database name 
+  $db_name="Project4"; // Database name 
 
   //$tbl_name="donor"; // Table name 
 
